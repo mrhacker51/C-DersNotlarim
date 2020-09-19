@@ -5,6 +5,7 @@
 
 int main()
 {
+    system("color c");
     setlocale(LC_ALL, "Turkish");
     int secim;
     int bakiye = 1000;

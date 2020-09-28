@@ -5,4 +5,4 @@
 
 const int FLAGS = 100;
 const int FLAGS2 = 200;
-const var FLAG3 = "Hello Flag";
+const char FLAG3 = "Hello Flag";

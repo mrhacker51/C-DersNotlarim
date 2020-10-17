@@ -7,7 +7,7 @@ int main(int argc, char const *argv[])
 {
 	setlocale(LC_ALL,"Turkish");
 
-	int i,sayi;
+	int i=1,sayi;
 
 	while (i<10){
 		printf("Bir Sayi Giriniz : ");
